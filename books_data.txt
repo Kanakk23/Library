@@ -1,0 +1,11 @@
+001|The C Programming Language|Dennis Ritchie|Prentice Hall|1988|a
+002|Clean Code|Robert C. Martin|Pearson|2008|r
+003|Deep Learning with Python|François Chollet|Manning|2017|b
+004|Introduction to Algorithms|Thomas H. Cormen|MIT Press|2009|b
+005|Design Patterns|Erich Gamma|Addison-Wesley|1994|b
+006|Algorithms|Robert Sedgewick|Addison-Wesley|1998|b
+007|The Art of Computer Programming|Donald E. Knuth|Addison-Wesley|2005|b
+008|Modern Operating Systems|Andrew S. Tanenbaum|Pearson|2017|b
+009|Introduction to the Theory of Computation|Michael Sipser|Cengage Learning|2009|b
+010|Deep Learning|Ian Goodfellow|MIT Press|2000|b
+011|Advanced Software Development|Indranil Saha|IITK Publication|2025|r
