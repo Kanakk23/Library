@@ -21,5 +21,5 @@ To run the compiled program, use the following command:
 
 ## Author
 
-Yatharth Sharma
-231198
+Kanak Khandelwal
+230520
